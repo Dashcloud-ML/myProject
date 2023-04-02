@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "66614612898",
+    "project_id": "dashcloud-app",
+    "storage_bucket": "dashcloud-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66614612898:android:e969b13b6af8358080d8fb",
+        "android_client_info": {
+          "package_name": "com.dashcloud.Dashcloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66614612898-798l1jmhbacoc9qbv85kdftkfsie4b0b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTQYGby790A74C5uWLCFGduGFgMTBqROQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66614612898-798l1jmhbacoc9qbv85kdftkfsie4b0b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
